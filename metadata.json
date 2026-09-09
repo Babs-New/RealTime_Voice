@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Live Voice AI Agent",
+  "description": "Real-time voice AI agent with Gemini Live API, bi-directional audio streaming, dynamic volume booster, and live speech visualizers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
